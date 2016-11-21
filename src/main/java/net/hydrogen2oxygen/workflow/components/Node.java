@@ -5,6 +5,7 @@ import lombok.Data;
 @Data
 public class Node {
 
+	private boolean dragged;
 	private int x, y;
 	private String name;
 	private String description;

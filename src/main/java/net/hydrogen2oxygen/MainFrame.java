@@ -2,7 +2,7 @@ package net.hydrogen2oxygen;
 
 import javax.swing.JFrame;
 
-import net.hydrogen2oxygen.workflow.WorkflowEditorPanel;
+import net.hydrogen2oxygen.gui.WorkflowEditorPanel;
 
 public class MainFrame extends JFrame {
 
